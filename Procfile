@@ -1,1 +1,1 @@
-web: gunicorn Ford_Project --log-file -
+web: gunicorn Ford_Project.wsgi --log-file -
